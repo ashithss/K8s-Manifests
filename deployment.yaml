@@ -18,7 +18,7 @@ spec:
         app: myapp
     spec:
       containers:
-      - image: ashithss/packages:7
+      - image: ashithss/packages:latest
         name: myapp
         resources: {}
 status: {}
